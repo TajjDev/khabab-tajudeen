@@ -19,7 +19,7 @@ export default function About(){
                     </div>
                 </div>
                 <div id="abtImage">
-                <img src={"./src/assets/profile.svg"} alt="" />
+                <img src={"./assets/profile.svg"} alt="" />
                 </div>
             </div>
         </div>
