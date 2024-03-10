@@ -7,7 +7,7 @@ export default function About(){
         <div id="about">
             <div id="contain">
                 <div id="abtText">
-                    <p id="pp">Hi <img src="./src/assets/hi.png" alt="" />, I'm a<br/><span>Software Developer</span></p>
+                    <p id="pp">Hi <img src={"./src/assets/hi.png"} alt="" />, I'm a<br/><span>Software Developer</span></p>
                     
                     <p id="p2">
                         I'm <span>Khabab Tajudeen</span>, actively seeking opportunities to apply my acquired skills and knowledge to real-world projects.
@@ -19,7 +19,7 @@ export default function About(){
                     </div>
                 </div>
                 <div id="abtImage">
-                <img src="./src/assets/profile.svg" alt="" />
+                <img src={"./src/assets/profile.svg"} alt="" />
                 </div>
             </div>
         </div>

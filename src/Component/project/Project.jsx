@@ -9,7 +9,7 @@ export default function Project(){
             <div id="containP">
                 <div id="projectImg">
                     <div className="imgP">
-                        <img src="./src/assets/Four-card-features.svg" alt="" />
+                        <img src={"./src/assets/Four-card-features.svg"} alt="" />
                     </div>
                     <div className="txt">
                     <p> Made a responsive Four Card Features template using HTML 5 and CSS</p>
@@ -18,7 +18,7 @@ export default function Project(){
                 </div>
                 <div id="ProImage">
                     <div className="imgP">
-                    <img src="./src/assets/Online-Stopwatch.svg" alt="" />
+                    <img src={"./src/assets/Online-Stopwatch.svg"} alt="" />
                     </div>
                     <div className="txt">
                     <p> Made a responsive online Stopwatch using HTML 5, CSS and Javascript.</p>
@@ -27,7 +27,7 @@ export default function Project(){
                 </div>
                 <div id="proImage">
                     <div className="imgP">
-                    <img src="./src/assets/Sumarry-result.svg" alt="" />
+                    <img src={"./src/assets/Sumarry-result.svg"} alt="" />
                     </div>
                     <div className="txt">
                     <p>Made a responsive result summary template page using HTML 5 and CSS.</p>
